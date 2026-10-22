@@ -4,7 +4,7 @@ Detta är mitt första Pythonprojekt via GitHub Desktop.
 
 ## Innehåll
 
-- "hello.py': Ett enkelt program som forst skriver ut "Hello, world!"
+- 'hello.py': Ett enkelt program som forst skriver ut "Hello, world!"
     och sedan frågar efter användarens namn.
 
 ## Syfte
